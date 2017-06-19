@@ -1,0 +1,6 @@
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/CMakeFiles/assignmentsheet7.dir
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/libigl/glew/CMakeFiles/glew.dir
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/libigl/nanogui/ext_build/glfw/src/CMakeFiles/glfw.dir
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/libigl/nanogui/ext_build/glfw/src/CMakeFiles/glfw_objects.dir
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/libigl/nanogui/CMakeFiles/nanogui.dir
+/media/alex/Data/Master/4th Semester/Advanced Topics in Graphics/exercises/exercise_7/framework_g07_cpp/build/libigl/nanogui/CMakeFiles/nanogui-obj.dir
